@@ -1,0 +1,51 @@
+body {
+  background-image: url("./DaImage.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.text-purple {
+  color: #6f42c1;
+}
+
+#largeText {
+  font-size: 80px;
+}
+
+.text-section {
+  text-align: center;
+  margin: 20px;
+}
+
+#button {
+  background-color: #6f42c1;
+  color: white;
+  font-size: 24px;
+  padding: 10px 20px;
+  border-radius: 50px;
+}
+
+.btn-purple {
+  background-color: #6f42c1;
+  color: white;
+}
+
+.navbar {
+  background-color: gray;
+}
+
+.icon-text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.vertical-hr {
+  border-left: 1px solid #dee2e6;
+  height: 60px;
+}
+
+.white-icon {
+  color: white;
+}/*# sourceMappingURL=clay.css.map */
